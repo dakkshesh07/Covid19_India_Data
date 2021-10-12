@@ -1,2 +1,3 @@
 ,Time,State,Confirmed,Recovered,Deaths,Active,New Cases
-0,2021-10-11 14:19,Puducherry,127095,124608,1848,639,NULL
+0,2021-10-11 14:19,Puducherry,127095,124608,1848,639,
+1,2021-10-12 12:18,Puducherry,127151,124686,1848,617,56.0
